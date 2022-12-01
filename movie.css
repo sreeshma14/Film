@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=BhuTuka+Expanded+One&family=Changa:wght@200&family=Cookie&family=IM+Fell+English+SC&family=Irish+Grover&family=Rubik+Glitch&family=Square+Peg&display=swap');
+.col{
+    width: 20%;
+    height: 500px;
+    border: 2px rgb(236, 226, 226) solid;
+    background-color: rgb(139, 177, 177);
+    float: left;
+    margin-right: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa; 
+    top:-10px; 
+    
+}
+.col1{
+     position: relative;
+     left: 50px;
+}
+.col2{
+     width: 250px;
+     height: 25px;
+     background-color: rgb(4, 4, 4);
+     position:absolute;
+     color: bisque;
+     text-align: center;
+     bottom: 7px;
+     left: 20px; 
+     font-family: 'Square Peg', cursive; 
+      
+}
+h3{
+    text-align: center;
+    font-family: 'Irish Grover', cursive;
+    text-shadow: 2px 2px rgb(139, 177, 177);
+    letter-spacing: 3px;
+    font-size:xx-large;
+}
+img{
+    width: 100%;
+}
+#l{
+    height: 180px;
+}
+h4{ 
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+ } 
+
+ .col3{
+   
+    font-size: small;
+ }
+ #k{
+    margin-top: -15px;
+ }
+
